@@ -1,6 +1,6 @@
 SITE_NAME = "AIToolsHub"
-DOMAIN = "https://www.example.com"   # change to your real domain before deploying
-CONTACT_EMAIL = "contact@example.com"  # change to your real email
+DOMAIN = "https://aitoolshub-site.vercel.app"   # change to your real domain when you buy one
+CONTACT_EMAIL = "kcoins609@gmail.com"
 YEAR = "2026"
 
 CATEGORIES = {

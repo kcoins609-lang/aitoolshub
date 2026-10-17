@@ -6,7 +6,7 @@ HOW TO PUBLISH (free)
 
 BEFORE YOU GO LIVE – CHANGE THESE
 - Site name, domain and email: edit SITE_NAME, DOMAIN, CONTACT_EMAIL in gen/data.py, then run: python3 gen/build.py ./site
-  (or find/replace "https://www.example.com" and "contact@example.com" in all files)
+  (or find/replace "https://aitoolshub-site.vercel.app" and "kcoins609@gmail.com" in all files)
 - Check that each tool's free plan details are still correct on its official site.
 
 ADSENSE

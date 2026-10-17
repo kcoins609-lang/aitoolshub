@@ -194,7 +194,7 @@ def header(depth, active=""):
 
 def footer(depth):
     p = pre(depth)
-    cat_links = "".join(f'<a href="{p}category/{s}.html">{v[0]}</a>' for s, v in list(cats.items())[:5])
+    cat_links = "".join(f'<a href="{p}category/{s}.html">{v[0]}</a>' for s, v in list(cats.items()))
     return f"""<footer class="site"><div class="wrap">
 <div class="fgrid">
 <div><h4>{SITE_NAME}</h4><p>Your guide to the best free AI tools, with simple tutorials and honest information for beginners.</p></div>
